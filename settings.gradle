@@ -1,0 +1,2 @@
+rootProject.name='Web-Chat'
+include ':app'
